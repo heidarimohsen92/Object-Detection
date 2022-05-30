@@ -9,7 +9,7 @@ The CSV data is simple - the image ID matches up with the filename of a given im
 
 Most of the test set images are hidden. A small subset of test images has been included for your use in writing code.
 
-###Columns
+### Columns
 
 image_id : the unique image ID.
 
